@@ -9,7 +9,7 @@ API LIST
 1.检测敏感词<br />
 URL   http://your_domain/check<br />
 参数名         请求类型        可选            长度<br />
-worrds   POST   false  65535
+words   POST   false  65535
 <br />
 返回格式：json<br />
 {"count":1,"data":[[0,6,"\u6bcd\u5b5d"]]}
@@ -17,8 +17,7 @@ worrds   POST   false  65535
 2.过滤敏感词<br />
 URL   http://your_domain/replace<br />
 参数名         请求类型        可选            长度<br />
-worrds   POST   false  65535<br />
-
+words   POST   false  65535<br />
 返回格式：text<br />
 **这是已经过滤的文本**,还好<br />
 
