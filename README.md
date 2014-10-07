@@ -16,11 +16,11 @@ worrds   POST   false  65535
 <br />
 2.过滤敏感词<br />
 URL   http://your_domain/replace<br />
-参数名         请求类型        可选            长度
-worrds   POST   false  65535
+参数名         请求类型        可选            长度<br />
+worrds   POST   false  65535<br />
 
-返回格式：text
-**这是已经过滤的文本**,还好
+返回格式：text<br />
+**这是已经过滤的文本**,还好<br />
 
 words.txt为敏感词文件<br />
 
