@@ -35,4 +35,4 @@ words.txt为敏感词文件<br />
 3.检测使用DFA过滤算法<br /><br />
 
 <br />
-重庆尚简科技工作室(http://www.sj-kj.com) caroltc(312493732@qq.com)
+caroltc(312493732@qq.com)
